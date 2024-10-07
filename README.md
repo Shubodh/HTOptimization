@@ -1,4 +1,6 @@
-# HTOptimization
+# Hierarchical Topological Optimization for Pose Graphs
+
+
 ![draft teaser](htop.png)
 
 Please find the full report [here](https://saishubodh.notion.site/Hierarchical-Topological-Optimization-Project-Report-493210c7b9b543d2af89252585fd159d?pvs=4).
